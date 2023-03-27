@@ -1,1 +1,1 @@
-Welcome to my website! Here you can find the image of the day, directly from NASA's  Astronomy Picture of the Day API. Every day, NASA publishes a breathtaking image or photograph of our fascinating universe, and this website brings that image directly to you.
+
