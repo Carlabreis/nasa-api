@@ -1,0 +1,44 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+  font-family: 'Anton', sans-serif;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+body{
+  text-align: center;
+}
+
+img{
+  display: block;
+  margin: 0 auto;
+  width: 100vw;
+  height: 800px;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+h1, input, button, h2 {
+  margin: 10px;
+}
+
+h3, input, button, h5 {
+  font-weight: lighter;
+  font-family: 'Arvo', serif;
+}
+
+.mainSection {
+  height: 970px;
+}
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
